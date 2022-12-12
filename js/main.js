@@ -11,6 +11,6 @@ function home() {
 }
 
 function info() {
-    let click = document.querySelector(".nav_item3");
+    let click = document.querySelector(".nav_item");
     click.onclick = function() { window.location.href = "https://annabelkkk.github.io/web/html/page2/index.html"; };
 }
