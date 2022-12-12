@@ -109,7 +109,7 @@ ul{
         height: 371px;
     }
 }
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1440px) {
     .nav_item, .nav_item3 {
         font-size: 17px;
     }
