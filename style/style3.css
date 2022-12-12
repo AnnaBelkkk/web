@@ -22,10 +22,10 @@
     gap: 80px;
 
 }
-.nav_item,.nav_item3{
+.nav_item,.nav_item2,.nav_item3{
     font-size: 32px;
 }
-.nav_item:hover,.nav_item3:hover{
+.nav_item:hover,.nav_item2:hover,.nav_item3:hover{
     color: white;
     transition: all linear .25s;
 }
@@ -79,7 +79,7 @@
     font-size: 13px;
 }
 @media screen and (max-width: 1400px){
-    .nav_item,.nav_item3{
+    .nav_item,.nav_item2,.nav_item3{
         font-size: 20px;
     }
     .title{
@@ -99,7 +99,7 @@
     }
 }
 @media screen and (max-width: 1440px) {
-    .nav_item, .nav_item3 {
+    .nav_item,.nav_item2, .nav_item3 {
         font-size: 17px;
     }
 
