@@ -157,7 +157,7 @@ ul{
         margin-top: -20px;
     }
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 430px) {
     .header__nav{
         gap: 20px;
     }
